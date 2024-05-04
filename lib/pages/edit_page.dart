@@ -132,7 +132,7 @@ class _EditPageState extends State<EditPage> {
                         name_controller.clear();
                         contact_controller.clear();
                         description_controller.clear();
-                      }, child: const Text("Delete Details")),
+                      }, child: const Text("Delete Detail")),
                 ],
               )
             ],
